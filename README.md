@@ -1,4 +1,4 @@
-[![MasterHead](https://icsitchandigarh.com/images/VLSI.jpg)]
+![MasterHead](https://icsitchandigarh.com/images/VLSI.jpg)
 <h1 align="center">Hi 👋, I'm Vara Durga Siva Sai Akula</h1>
 <h3 align="center">A passionate VLSI student, currently pursuing Masters.</h3>
 
